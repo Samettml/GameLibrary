@@ -1,5 +1,6 @@
-###Game Library Management Application
+### Game Library Management Application
 This project is a comprehensive game library management application developed using Java Swing. Users can add, edit, filter games, and import popular games from Steam integration.
+
 ![Ekran görüntüsü 2025-05-20 010838](https://github.com/user-attachments/assets/4046db45-e4f1-47d8-b61f-fa66161beb3d)
 ### Features
 
